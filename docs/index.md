@@ -39,3 +39,7 @@ Start with [US internships and junior jobs](/us-internships-entry-level), then c
 - [Beginner glossary](/glossary)
 
 **Research integrity:** Government projections refer to established occupations, not new AI-specific titles. Employer job examples are dated snapshots, not a live job board.
+
+![Illustrated pathways from student web development skills to AI product engineering, forward deployed engineering and AI systems engineering](/career-pathways.svg)
+
+*Illustration: three possible directions, not a required career progression.*
