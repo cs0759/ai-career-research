@@ -27,3 +27,7 @@ features:
 Artificial intelligence is reshaping software and product teams, and job titles do not always mean the same thing across employers. This project documents emerging roles, their responsibilities, the tools they use, and potential routes into the field.
 
 **Start with the [career directory](/roles/)** or read our [research methodology](/methodology).
+
+## US career research by experience level
+
+Start with [US internships and junior jobs](/us-internships-entry-level), then compare [mid-level and senior opportunities](/us-mid-senior). For a beginner's perspective, see the [IS-117 student usability review](/student-review).
