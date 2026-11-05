@@ -10,6 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Career Paths', link: '/roles/' },
+      { text: 'Career Explorer', link: '/career-explorer' },
+      { text: 'BLS Data', link: '/labor-market' },
       { text: 'Skills', link: '/skills' },
       { text: 'Internships & Junior', link: '/us-internships-entry-level' },
       { text: 'Research Method', link: '/methodology' }
@@ -25,6 +27,9 @@ export default defineConfig({
       ] },
       { text: 'Research', items: [
         { text: 'Skills Roadmap', link: '/skills' },
+        { text: 'Career Explorer', link: '/career-explorer' },
+        { text: 'BLS & Skills Data', link: '/labor-market' },
+        { text: 'Beginner Glossary', link: '/glossary' },
         { text: 'US Internships & Junior', link: '/us-internships-entry-level' },
         { text: 'US Mid-Level & Senior', link: '/us-mid-senior' },
         { text: 'IS-117 Student Review', link: '/student-review' },
