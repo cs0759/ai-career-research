@@ -8,6 +8,10 @@ An open research project exploring emerging careers in artificial intelligence: 
 
 > The website link becomes active once GitHub Pages is configured and the deployment succeeds.
 
+## Research by career level
+
+[View sourced internship, entry-level, mid-level, and senior AI job examples](https://cs0759.github.io/ai-career-research/job-examples).
+
 ## Explore the research
 
 - Forward Deployed Engineer (FDE)
