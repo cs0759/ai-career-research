@@ -55,3 +55,11 @@ Go to **Settings → Pages** in this repository and select **GitHub Actions** as
 ## Contributing
 
 Propose corrections and dated job-posting examples through GitHub issues or pull requests.
+
+## New US-focused research (November 2026)
+
+- [US internships and junior roles](https://cs0759.github.io/ai-career-research/us-internships-entry-level)
+- [US mid-level and senior roles](https://cs0759.github.io/ai-career-research/us-mid-senior)
+- [Simulated NJIT IS-117 student review](https://cs0759.github.io/ai-career-research/student-review)
+
+All job examples link to employer sources; remote restrictions and posting freshness are noted.
