@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Career Paths', link: '/roles/' },
       { text: 'Skills', link: '/skills' },
+      { text: 'Job Examples', link: '/job-examples' },
       { text: 'Research Method', link: '/methodology' }
     ],
     sidebar: [
@@ -24,6 +25,7 @@ export default defineConfig({
       ] },
       { text: 'Research', items: [
         { text: 'Skills Roadmap', link: '/skills' },
+        { text: 'Real Job Examples', link: '/job-examples' },
         { text: 'Methodology & Sources', link: '/methodology' }
       ] }
     ],
