@@ -63,3 +63,11 @@ Propose corrections and dated job-posting examples through GitHub issues or pull
 - [Simulated NJIT IS-117 student review](https://cs0759.github.io/ai-career-research/student-review)
 
 All job examples link to employer sources; remote restrictions and posting freshness are noted.
+
+## Research dashboard and student tools
+
+- [BLS employment and wage charts](https://cs0759.github.io/ai-career-research/labor-market)
+- [Interactive career interest explorer](https://cs0759.github.io/ai-career-research/career-explorer)
+- [Beginner AI terminology](https://cs0759.github.io/ai-career-research/glossary)
+
+Charts cite primary BLS and O*NET sources; the career explorer is an illustrative learning tool, not a validated career assessment.
